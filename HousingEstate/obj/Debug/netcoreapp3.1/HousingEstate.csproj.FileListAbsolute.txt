@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\obj\Debug\netcoreapp3.1\HousingEstate.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\obj\Debug\netcoreapp3.1\HousingEstate.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\obj\Debug\netcoreapp3.1\HousingEstate.AssemblyInfo.cs
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\obj\Debug\netcoreapp3.1\HousingEstate.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\bin\Debug\netcoreapp3.1\HousingEstate.exe
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\bin\Debug\netcoreapp3.1\HousingEstate.deps.json
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\bin\Debug\netcoreapp3.1\HousingEstate.runtimeconfig.json
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\bin\Debug\netcoreapp3.1\HousingEstate.runtimeconfig.dev.json
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\bin\Debug\netcoreapp3.1\HousingEstate.dll
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\bin\Debug\netcoreapp3.1\HousingEstate.pdb
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\obj\Debug\netcoreapp3.1\HousingEstate.dll
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\obj\Debug\netcoreapp3.1\HousingEstate.pdb
+C:\Users\micha\source\repos\HousingEstate\HousingEstate\obj\Debug\netcoreapp3.1\HousingEstate.genruntimeconfig.cache
