@@ -10,6 +10,7 @@ namespace HousingEstate
         public string Name { get; set; }
         public string Surname{get; set;}
         public int Age { get; set; }
+        public List<Flat> flat { get; set; }
 
 
         public Person(string name, string surname, int age)
@@ -28,7 +29,7 @@ namespace HousingEstate
 
         public override string ToString()
         {
-            return $"Name: {Name}\nSurname: {Surname}\nAge: {Age}";
+            return $" \nName of the habitant: {Name}\nSurname of the habitant: {Surname}\nAge of the habitant: {Age}";
         }
     }
 }

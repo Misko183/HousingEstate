@@ -10,6 +10,7 @@ namespace HousingEstate
         public int FlatNum { get; set; }
         public int Extent { get; set; }
         public int Rooms { get; set; }
+        public List<Person> person = new List<Person>();
 
 
         public Flat(int flatNum, int extent, int rooms)
@@ -30,8 +31,21 @@ namespace HousingEstate
 
         public override string ToString()
         {
-            Console.WriteLine("-----------------------");
-            return $"Number of flat: {FlatNum}\nExtent of the flat: {Extent}\nNumbers of rooms: {Rooms}";
+            return $"-----------------------\nNumber of flat: {FlatNum}\nExtent of the flat: {Extent}\nNumbers of rooms: {Rooms}";
+        }
+
+        public void AddHabitant(string nameOfHabitant, string surnameOfHabitant, int ageOfHabitant)
+        {
+            Person habitant = new Person(nameOfHabitant, surnameOfHabitant, ageOfHabitant);
+            person.Add(habitant);
+        }
+
+        public void GetInfoAboutHabitants()
+        {
+            for (int i = 0; i < person.Count; i++) 
+            {
+                Console.WriteLine($"{person[i]}\n");
+            }
         }
     }
 }
