@@ -31,5 +31,13 @@ namespace HousingEstate
         {
             return $" \nName of the habitant: {Name}\nSurname of the habitant: {Surname}\nAge of the habitant: {Age}";
         }
+
+        public void GetInfoAboutFlat()
+        {
+            for (int i = 0; i < flat.Count; i++)
+            {
+                Console.WriteLine($"{flat[i]}\n");
+            }
+        }
     }
 }
